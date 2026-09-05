@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7M9+n5PKcUVX7jsNuIuPBxOsc+142CWydFekXl/luts=",
+  "Source": "TaskBit.API",
+  "BasePath": "_content/TaskBit.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
