@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TaskBit — Sign in</title>
+<link rel="stylesheet" href="css/variables.css" />
+<link rel="stylesheet" href="css/base.css" />
+<link rel="stylesheet" href="css/login.css" />
+</head>
+<body>
+<div class="login-page">
+  <div class="login-card">
+    <div class="login-brand">
+      <span class="logo-mark" id="loginLogoMark"></span>
+      <div>
+        <div class="name">TaskBit</div>
+        <div class="tagline">Agile Collaboration Platform</div>
+      </div>
+    </div>
+
+    <div class="login-tabs">
+      <button class="login-tab active" data-tab="login" id="tabLogin">Log in</button>
+      <button class="login-tab" data-tab="register" id="tabRegister">Create account</button>
+    </div>
+
+    <div id="formError"></div>
+
+    <form id="loginForm">
+      <div class="field">
+        <label for="loginEmail">Email</label>
+        <input class="input" type="email" id="loginEmail" required placeholder="you@example.com" />
+      </div>
+      <div class="field">
+        <label for="loginPassword">Password</label>
+        <input class="input" type="password" id="loginPassword" required placeholder="••••••••" />
+      </div>
+      <button class="btn btn-primary btn-block" type="submit" id="loginSubmitBtn">Log in</button>
+    </form>
+
+    <form id="registerForm" class="hidden">
+      <div class="field">
+        <label for="regName">Full name</label>
+        <input class="input" type="text" id="regName" required placeholder="Juan Dela Cruz" />
+      </div>
+      <div class="field">
+        <label for="regEmail">Email</label>
+        <input class="input" type="email" id="regEmail" required placeholder="you@example.com" />
+      </div>
+      <div class="field">
+        <label for="regPassword">Password</label>
+        <input class="input" type="password" id="regPassword" required minlength="6" placeholder="At least 6 characters" />
+      </div>
+      <div class="field">
+        <label for="regRole">Role</label>
+        <select class="select" id="regRole">
+          <option value="4" selected>Member</option>
+          <option value="3">Org Officer</option>
+          <option value="2">Faculty</option>
+          <option value="1">Admin</option>
+        </select>
+      </div>
+      <button class="btn btn-primary btn-block" type="submit" id="registerSubmitBtn">Create account</button>
+    </form>
+
+    <div class="login-hint" id="switchHint">Don't have an account? <a href="#" id="goRegister" style="color:var(--red-accent); font-weight:700;">Sign up</a></div>
+  </div>
+</div>
+
+<script src="js/icons.js"></script>
+<script src="js/api.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/login.js"></script>
+</body>
+</html>

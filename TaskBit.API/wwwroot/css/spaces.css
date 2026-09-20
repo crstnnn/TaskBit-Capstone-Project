@@ -1,0 +1,30 @@
+.spaces-toolbar { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
+.spaces-toolbar .search-input-wrap { width: 320px; }
+
+.spaces-table { width: 100%; background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-lg); border-collapse: separate; border-spacing: 0; overflow: hidden; }
+.spaces-table th {
+  text-align: left; font-size: 11.5px; font-weight: 700; color: var(--text-400); text-transform: none;
+  padding: 10px 16px; border-bottom: 1px solid var(--border); background: var(--bg-subtle); cursor: default;
+}
+.spaces-table td { padding: 12px 16px; border-bottom: 1px solid var(--border); font-size: 13.5px; vertical-align: middle; }
+.spaces-table tr:last-child td { border-bottom: none; }
+.spaces-table tbody tr { cursor: pointer; transition: background 0.1s ease; }
+.spaces-table tbody tr:hover { background: var(--bg-subtle); }
+
+.space-name-cell { display: flex; align-items: center; gap: 10px; }
+.space-name-cell .pname { font-weight: 600; color: var(--red-accent); }
+.star-col { width: 34px; }
+.star-btn { background: none; border: none; color: var(--border-strong); cursor: pointer; padding: 2px; display: flex; }
+.star-btn.active { color: #e2a913; }
+.star-btn svg polygon { fill: currentColor; }
+
+.url-cell { display: flex; align-items: center; gap: 6px; color: var(--text-400); font-size: 12.5px; }
+.url-cell button { background: none; border: none; color: var(--text-400); cursor: pointer; display: flex; }
+.url-cell button:hover { color: var(--red-accent); }
+
+.spaces-pagination { display: flex; align-items: center; justify-content: center; gap: 6px; margin-top: 16px; }
+.page-num {
+  width: 30px; height: 30px; border-radius: var(--radius); border: 1px solid transparent; background: none;
+  color: var(--text-600); cursor: pointer; font-weight: 600; font-size: 13px;
+}
+.page-num.active { background: var(--red-accent); color: #fff; }

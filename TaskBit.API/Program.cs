@@ -66,6 +66,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Serves the static frontend (HTML/CSS/JS) from wwwroot on the same origin as the API,
+// so the UI can call the API with relative "/api/..." URLs and avoid CORS/port issues.
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 app.UseAuthentication();

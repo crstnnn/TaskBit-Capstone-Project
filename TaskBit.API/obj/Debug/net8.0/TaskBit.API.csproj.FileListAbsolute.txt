@@ -69,3 +69,4 @@ C:\Users\cristian\Desktop\TaskBit Capstone\TaskBit-Capstone-Project\TaskBit.API\
 C:\Users\cristian\Desktop\TaskBit Capstone\TaskBit-Capstone-Project\TaskBit.API\obj\Debug\net8.0\TaskBit.API.pdb
 C:\Users\cristian\Desktop\TaskBit Capstone\TaskBit-Capstone-Project\TaskBit.API\obj\Debug\net8.0\TaskBit.API.genruntimeconfig.cache
 C:\Users\cristian\Desktop\TaskBit Capstone\TaskBit-Capstone-Project\TaskBit.API\obj\Debug\net8.0\ref\TaskBit.API.dll
+C:\Users\cristian\Desktop\TaskBit Capstone\TaskBit-Capstone-Project\TaskBit.API\bin\Debug\net8.0\TaskBit.API.staticwebassets.runtime.json

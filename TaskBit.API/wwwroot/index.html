@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>TaskBit</title>
+</head>
+<body>
+<script>
+  var hasSession = !!localStorage.getItem("taskbit.session");
+  window.location.replace(hasSession ? "/spaces.html" : "/login.html");
+</script>
+</body>
+</html>

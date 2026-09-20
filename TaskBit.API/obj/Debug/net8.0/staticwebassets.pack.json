@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\project.css",
+      "PackagePath": "staticwebassets\\css\\project.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\spaces.css",
+      "PackagePath": "staticwebassets\\css\\spaces.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\variables.css",
+      "PackagePath": "staticwebassets\\css\\variables.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\css\\wizard.css",
+      "PackagePath": "staticwebassets\\css\\wizard.css"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\api.js",
+      "PackagePath": "staticwebassets\\js\\api.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\backlog.js",
+      "PackagePath": "staticwebassets\\js\\backlog.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\board.js",
+      "PackagePath": "staticwebassets\\js\\board.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\createProjectWizard.js",
+      "PackagePath": "staticwebassets\\js\\createProjectWizard.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\icons.js",
+      "PackagePath": "staticwebassets\\js\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\layout.js",
+      "PackagePath": "staticwebassets\\js\\layout.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\list.js",
+      "PackagePath": "staticwebassets\\js\\list.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\project.js",
+      "PackagePath": "staticwebassets\\js\\project.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\reports.js",
+      "PackagePath": "staticwebassets\\js\\reports.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\spaces.js",
+      "PackagePath": "staticwebassets\\js\\spaces.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\taskModal.js",
+      "PackagePath": "staticwebassets\\js\\taskModal.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\js\\ui.js",
+      "PackagePath": "staticwebassets\\js\\ui.js"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\project.html",
+      "PackagePath": "staticwebassets\\project.html"
+    },
+    {
+      "Id": "C:\\Users\\cristian\\Desktop\\TaskBit Capstone\\TaskBit-Capstone-Project\\TaskBit.API\\wwwroot\\spaces.html",
+      "PackagePath": "staticwebassets\\spaces.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskBit.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskBit.API.props",
+      "PackagePath": "build\\TaskBit.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskBit.API.props",
+      "PackagePath": "buildMultiTargeting\\TaskBit.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskBit.API.props",
+      "PackagePath": "buildTransitive\\TaskBit.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskBit.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b447c9c481eabd2ea4241d7d5c4523a6abcca629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5e2c4164ad19c6ee67e4006e03a344d7ded907")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskBit.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskBit.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

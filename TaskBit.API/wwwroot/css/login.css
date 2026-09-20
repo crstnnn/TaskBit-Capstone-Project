@@ -1,0 +1,33 @@
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at 20% 20%, var(--maroon-600), var(--maroon-900) 70%);
+  padding: 20px;
+}
+.login-card {
+  background: #fff;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  width: 380px;
+  max-width: 100%;
+  padding: 32px 30px;
+}
+.login-brand { display: flex; align-items: center; gap: 10px; margin-bottom: 22px; }
+.login-brand .logo-mark {
+  width: 38px; height: 38px; border-radius: 10px; background: var(--red-accent);
+  color: #fff; display: flex; align-items: center; justify-content: center;
+}
+.login-brand .name { font-size: 19px; font-weight: 800; color: var(--text-900); }
+.login-brand .tagline { font-size: 11px; color: var(--text-400); }
+
+.login-tabs { display: flex; border-bottom: 2px solid var(--border); margin-bottom: 20px; }
+.login-tab {
+  flex: 1; text-align: center; padding: 10px 0; font-weight: 700; font-size: 13.5px;
+  color: var(--text-400); cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -2px;
+  background: none; border-top: none; border-left: none; border-right: none;
+}
+.login-tab.active { color: var(--red-accent); border-bottom-color: var(--red-accent); }
+
+.login-hint { font-size: 12px; color: var(--text-400); text-align: center; margin-top: 14px; }
